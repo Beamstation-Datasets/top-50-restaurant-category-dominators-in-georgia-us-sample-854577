@@ -9,9 +9,9 @@
 | Dataset ID | `854577` |
 | Location | Georgia |
 | Category | Restaurants |
-| Full dataset size | 50 records |
-| Free sample size | 4 records (8.0%) |
-| Last export | 2026-04-08T01:46:25.598783+00:00 |
+| Full dataset size | 49 records |
+| Free sample size | 4 records (8.16%) |
+| Last export | 2026-04-15T07:15:58.526872+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-georgia-us-sample-854577/releases/download/sample-latest/beamstation_854577_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
