@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 50 Restaurant Category Dominators in Georgia, US",
-  "export_job_id": "edc52ff7-b646-468f-b5e4-7890b5b99a84",
+  "export_job_id": "345f8ec6-2a9f-4c15-9f0e-adc26bdf2d67",
   "github_org": "Beamstation-Datasets",
   "id_short": 854577,
   "location_name": "Georgia",
   "location_type": "state",
   "repo_name": "top-50-restaurant-category-dominators-in-georgia-us-sample-854577",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/854577/beamstation_854577_restaurants-us-ga_SAMPLE_DIST.csv",
-  "sample_pct": 8.0,
+  "sample_pct": 8.16,
   "sample_records": 4,
   "sample_sha256": "a72db8b05ab60a8f2721500a96db36cbcc7622e4165b2c60d3bad5f6d5684eab",
   "sample_size_bytes": 36933,
-  "total_records": 50,
-  "updated_at": "2026-04-08T01:46:25.598783+00:00"
+  "total_records": 49,
+  "updated_at": "2026-04-15T07:15:58.526872+00:00"
 }
