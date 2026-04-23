@@ -1,12 +1,12 @@
 {
-  "export_job_id": "345f8ec6-2a9f-4c15-9f0e-adc26bdf2d67",
+  "export_job_id": "7eebefd0-6467-426a-95fe-d20e80208394",
   "id_short": 854577,
-  "published_at": "2026-04-19T07:32:14Z",
+  "published_at": "2026-04-23T07:13:06Z",
   "repo_name": "top-50-restaurant-category-dominators-in-georgia-us-sample-854577",
   "sample_asset_name": "beamstation_854577_restaurants-us-ga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/854577/beamstation_854577_restaurants-us-ga_SAMPLE_DIST.csv",
-  "sample_records": 4,
-  "sample_sha256": "a72db8b05ab60a8f2721500a96db36cbcc7622e4165b2c60d3bad5f6d5684eab",
-  "sample_size_bytes": 36933,
-  "total_records": 49
+  "sample_records": 5,
+  "sample_sha256": "27498a121b258fe7759f14e74653ea419742a23ebd15f4b43b6f608836e57081",
+  "sample_size_bytes": 37037,
+  "total_records": 59
 }
