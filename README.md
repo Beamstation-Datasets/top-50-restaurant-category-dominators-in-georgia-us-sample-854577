@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Georgia, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `854577` |
 | Location | Georgia |
 | Category | Restaurants |
-| Full dataset size | 59 records |
-| Free sample size | 5 records (8.47%) |
-| Last export | 2026-04-22T13:33:32.047885+00:00 |
+| Full dataset size | 72 records |
+| Free sample size | 7 records (9.72%) |
+| Last export | 2026-04-29T14:18:54.841289+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-georgia-us-sample-854577/releases/download/sample-latest/beamstation_854577_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
